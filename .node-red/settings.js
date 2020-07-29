@@ -73,7 +73,7 @@ module.exports = {
     // Note: once you set this property, do not change it - doing so will prevent
     // node-red from being able to decrypt your existing credentials and they will be
     // lost.
-    //credentialSecret: "a-secret-key",
+    credentialSecret: "1234",
 
     // By default, all user data is stored in a directory called `.node-red` under
     // the user's home directory. To use a different location, the following
