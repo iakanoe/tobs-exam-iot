@@ -1,0 +1,17 @@
+{
+    "name": "tobs-exam",
+    "version": "1.0.0",
+    "description": "examen de iot para tobs",
+    "main": "index.js",
+    "scripts": {
+        "test": "npx node-red --userDir ./.node-red",
+        "start": "node-red --userDir ./.node-red"
+    },
+    "author": "iakanoe",
+    "license": "MIT",
+    "dependencies": {
+        "node-red": "^1.1.2",
+        "node-red-contrib-telegrambot": "^8.3.0",
+        "node-red-dashboard": "^2.23.0"
+    }
+}
