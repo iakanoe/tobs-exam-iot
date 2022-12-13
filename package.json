@@ -10,7 +10,7 @@
     "author": "iakanoe",
     "license": "MIT",
     "dependencies": {
-        "node-red": "^1.1.2",
+        "node-red": "^3.0.2",
         "node-red-contrib-telegrambot": "^8.3.0",
         "node-red-dashboard": "^2.23.0"
     }
